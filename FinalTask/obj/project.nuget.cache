@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NmUsS1BaZRne8I35TXhkOezkrq7JK7X+1LU1EwQOGwM8u+j8XqSnT77/hceNqxxV2hbydPvvl2uHyjQl6zbFtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASD\\Downloads\\ExaminationSystem-ITI-main\\ExaminationSystem\\FinalTask\\FinalTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ASD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ASD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ASD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
